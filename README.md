@@ -7,7 +7,7 @@ This repository contains a simple Python script for calculating the sum of squar
 To use the calculator, clone the repository to your local machine and run the Python script `sum_of_squares.py` with the desired value of `n` as an argument.
 
 ```bash
-git clone https://github.com/abhrankan/sum-of-squares-calculator.git
+git clone https://github.com/Abhrankan-Chakrabarti/sum-of-squares-calculator.git
 cd sum-of-squares-calculator
 python sum_of_squares.py n
 ```
